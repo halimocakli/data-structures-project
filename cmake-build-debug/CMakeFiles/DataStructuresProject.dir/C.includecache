@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/halim/OneDrive/Desktop/DataStructures/DataStructuresProject/main.c
+conio.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+windows.h
+-
+
