@@ -1,9 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DataStructuresProject.dir/main.c.obj"
-  "DataStructuresProject.exe"
-  "DataStructuresProject.exe.manifest"
+  "CMakeFiles/DataStructuresProject.dir/main.c.o"
+  "CMakeFiles/DataStructuresProject.dir/main.c.o.d"
+  "DataStructuresProject"
   "DataStructuresProject.pdb"
-  "libDataStructuresProject.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
